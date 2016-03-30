@@ -9,5 +9,9 @@
             "email": "ptcong90@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-0": {
+            "JavascriptUnpacker": ""
+        }
+    }
 }
