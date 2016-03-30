@@ -1,0 +1,13 @@
+{
+    "name": "ptcong/php-javascript-unpacker",
+    "description": "unpack javascript packed from http://dean.edwards.name/packer/",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phan Thanh Cong",
+            "email": "ptcong90@gmail.com"
+        }
+    ],
+    "require": {}
+}
